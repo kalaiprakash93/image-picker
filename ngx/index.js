@@ -17,7 +17,7 @@ var ImagePicker = /** @class */ (function (_super) {
     ImagePicker.pluginName = "ImagePicker";
     ImagePicker.plugin = "cordova-plugin-telerik-imagepicker";
     ImagePicker.pluginRef = "window.imagePicker";
-    ImagePicker.repo = "https://github.com/Telerik-Verified-Plugins/ImagePicker";
+    ImagePicker.repo = "https://github.com/kalaiprakash93/ImagePicker.git";
     ImagePicker.install = "ionic cordova plugin add cordova-plugin-telerik-imagepicker --variable PHOTO_LIBRARY_USAGE_DESCRIPTION=\"your usage message\"";
     ImagePicker.installVariables = ["PHOTO_LIBRARY_USAGE_DESCRIPTION"];
     ImagePicker.platforms = ["Android", "iOS"];
